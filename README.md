@@ -36,14 +36,14 @@ Tras procesar los registros de 3 meses, se obtuvieron los siguientes hallazgos c
 ### 1. Diagnóstico de Fallas 
 * **Agosto (Mes Crítico):** Sufrió una caída del **14.4%** en producción respecto a Julio (180k vs 154k).
 * **Causa Raíz:** La consulta de frecuencia revela que la **"Falla de Contactor"** ocurrió 4 veces exclusivamente en agosto, mientras que junio sufrió por **"Falla de Sensor"**.
-> 📂 *Evidencia:* [Ver captura de resultados SQL](evidencia/evidencia_ranking_fallas.png) y [Promedios Mensuales](evidencia/evidencia_promedio_mensual.png)
+> 📂 *Evidencia:* [Ver captura de resultados SQL](evidencias/evidencia_ranking_fallas.png) y [Promedios Mensuales](evidencias/evidencia_promedio_mensual.png)
 
 ### 2. Impacto Financiero
 Se comparó el rendimiento de días sin incidencias vs. días con reportes de mantenimiento:
 * **Producción Objetivo (Sin Fallas):** ~171,900 fajas/día.
 * **Producción Real (Con Fallas):** ~129,900 fajas/día.
 * **📉 Impacto:** Las fallas mecánicas reducen la capacidad productiva en un **24.4%**.
-> 📂 *Evidencia:* [Ver captura de tabla comparativa](evidencia/evidencia_impacto_economico.png)
+> 📂 *Evidencia:* [Ver captura de tabla comparativa](evidencias/evidencia_impacto_economico.png)
 
 ### 3. Alta Inestabilidad del Proceso
 El proceso tiene un **Coeficiente de Variación (CV) del 38%**, muy por encima del estándar industrial aceptable (<20%).
