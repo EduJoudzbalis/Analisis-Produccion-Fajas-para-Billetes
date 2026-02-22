@@ -1,4 +1,4 @@
-# 🏭 Optimización de Producción Industrial: Análisis de Eficiencia en Máquina Laurenti de Producción de Fajas para Billetes (SQL + Python)
+# 🏭 Optimización de Producción Industrial: Análisis de Eficiencia en Máquina de Producción de Fajas para Billetes (SQL + Python)
 
 ## 🚀 Executive Summary 
 Este proyecto analiza el rendimiento operativo de una línea de corte de fajas para billetes bancarios durante el trimestre **Junio-Agosto 2025**. A partir de la digitalización de bitácoras manuales, se identificó que la inestabilidad del proceso provoca una **pérdida de producción del 24.4%** en días con fallas mecánicas.
