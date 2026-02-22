@@ -6,7 +6,7 @@ Este proyecto analiza el rendimiento operativo de una línea de corte de fajas p
 El análisis detectó patrones estacionales de fallas (sensores en junio, contactores en agosto), permitiendo proponer una estrategia de mantenimiento preventivo que podría recuperar hasta **42,000 unidades diarias** en promedio.
 
 ## 💼 Business Problem 
-La máquina "Laurenti" es crítica para la entrega de insumos a entidades bancarias (Banco Santander, Credicoop, Galicia).
+La máquina es crítica para la entrega de insumos a entidades bancarias.
 * **El Problema:** La producción es altamente variable, oscilando entre 9,000 y 222,000 unidades diarias, lo que genera incertidumbre en los plazos de entrega y costos por horas extra no planificadas.
 * **El Objetivo:** Utilizar datos históricos para diagnosticar las causas raíz de los "tiempos muertos" y estandarizar el rendimiento.
 
